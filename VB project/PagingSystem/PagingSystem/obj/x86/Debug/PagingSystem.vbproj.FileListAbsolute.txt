@@ -1,0 +1,30 @@
+D:\Users\rosyid.ridlo\AppData\Local\Temporary Projects\PagingSystem\bin\Debug\PagingSystem.exe
+D:\Users\rosyid.ridlo\AppData\Local\Temporary Projects\PagingSystem\bin\Debug\PagingSystem.pdb
+D:\Users\rosyid.ridlo\AppData\Local\Temporary Projects\PagingSystem\bin\Debug\PagingSystem.xml
+D:\Users\rosyid.ridlo\AppData\Local\Temporary Projects\PagingSystem\obj\x86\Debug\PagingSystem.Form1.resources
+D:\Users\rosyid.ridlo\AppData\Local\Temporary Projects\PagingSystem\obj\x86\Debug\PagingSystem.Resources.resources
+D:\Users\rosyid.ridlo\AppData\Local\Temporary Projects\PagingSystem\obj\x86\Debug\PagingSystem.vbproj.GenerateResource.Cache
+D:\Users\rosyid.ridlo\AppData\Local\Temporary Projects\PagingSystem\obj\x86\Debug\PagingSystem.exe
+D:\Users\rosyid.ridlo\AppData\Local\Temporary Projects\PagingSystem\obj\x86\Debug\PagingSystem.xml
+D:\Users\rosyid.ridlo\AppData\Local\Temporary Projects\PagingSystem\obj\x86\Debug\PagingSystem.pdb
+D:\09. Project App\02. Work\PagingSystem\PagingSystem\bin\Debug\PagingSystem.exe
+D:\09. Project App\02. Work\PagingSystem\PagingSystem\bin\Debug\PagingSystem.pdb
+D:\09. Project App\02. Work\PagingSystem\PagingSystem\bin\Debug\PagingSystem.xml
+D:\09. Project App\02. Work\PagingSystem\PagingSystem\obj\x86\Debug\Interop.MediaPlayer.dll
+D:\09. Project App\02. Work\PagingSystem\PagingSystem\obj\x86\Debug\Interop.WMPLib.dll
+D:\09. Project App\02. Work\PagingSystem\PagingSystem\obj\x86\Debug\PagingSystem.vbproj.ResolveComReference.cache
+D:\09. Project App\02. Work\PagingSystem\PagingSystem\obj\x86\Debug\PagingSystem.MainForm.resources
+D:\09. Project App\02. Work\PagingSystem\PagingSystem\obj\x86\Debug\PagingSystem.Resources.resources
+D:\09. Project App\02. Work\PagingSystem\PagingSystem\obj\x86\Debug\PagingSystem.vbproj.GenerateResource.Cache
+D:\09. Project App\02. Work\PagingSystem\PagingSystem\obj\x86\Debug\PagingSystem.exe
+D:\09. Project App\02. Work\PagingSystem\PagingSystem\obj\x86\Debug\PagingSystem.xml
+D:\09. Project App\02. Work\PagingSystem\PagingSystem\obj\x86\Debug\PagingSystem.pdb
+D:\09. Project App\02. Work\PagingSystem\PagingSystem\obj\x86\Debug\Interop.WMPDXMLib.dll
+D:\09. Project App\02. Work\PagingSystem\PagingSystem\obj\x86\Debug\Interop.WMPLauncher.dll
+D:\09. Project App\02. Work\PagingSystem\PagingSystem\bin\Debug\Interop.WMPLib.dll
+D:\09. Project App\02. Work\PagingSystem\PagingSystem\bin\Debug\AxInterop.WMPLib.dll
+D:\09. Project App\02. Work\PagingSystem\PagingSystem\obj\x86\Debug\AxInterop.WMPLib.dll
+D:\09. Project App\02. Work\PagingSystem\PagingSystem\bin\Debug\PagingSystem.exe.manifest
+D:\09. Project App\02. Work\PagingSystem\PagingSystem\bin\Debug\PagingSystem.application
+D:\09. Project App\02. Work\PagingSystem\PagingSystem\obj\x86\Debug\PagingSystem.exe.manifest
+D:\09. Project App\02. Work\PagingSystem\PagingSystem\obj\x86\Debug\PagingSystem.application
